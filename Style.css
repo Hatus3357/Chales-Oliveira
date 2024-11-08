@@ -5,9 +5,3 @@ html, body {
 canvas {
   display: block;
 }
-
-body {
-  color: orange;
-  background: black;
-  margin: 50px;
-}
