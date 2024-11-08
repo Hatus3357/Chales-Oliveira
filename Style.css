@@ -5,3 +5,11 @@ html, body {
 canvas {
   display: block;
 }
+element.style {
+  background: red;
+}
+
+section {
+  display: block;
+  unicode-bidi: isolate;
+}
